@@ -76,4 +76,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-> ⭐ If you like this landing page, consider starring the repo and reusing the template for your own projects.
+> ⭐ If you found this project useful, please consider giving it a star!
